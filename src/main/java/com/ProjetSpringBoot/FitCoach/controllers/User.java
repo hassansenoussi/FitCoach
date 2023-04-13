@@ -42,6 +42,9 @@ public class User {
                 ", email='" + email + '\'' +
                 ", mpd='" + mpd + '\'' +
                 '}';
+
+
+        
     }
 
     public User(String nom, String prenom, String email, String mpd) {
